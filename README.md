@@ -15,7 +15,6 @@
 * [p5.js Web Editor | Dom: Video Playback](https://editor.p5js.org/p5/sketches/Dom:_Video)
 * [examples | p5.js | Video Capture](https://p5js.org/examples/dom-video-capture.html)
 
-
 ## Sound
 ### Examples
 * [Patatap](https://www.patatap.com/) 
@@ -33,5 +32,16 @@
 * [p5.js Web Editor | Sound: Live Input](https://editor.p5js.org/p5/sketches/Sound:_Live_Input)
 * [p5.js Web Editor | Sound: FFT Spectrum](https://editor.p5js.org/p5/sketches/Sound:_FFT_Spectrum)
 * [p5.js Web Editor | Sound: Oscillator Waveform](https://editor.p5js.org/p5/sketches/Sound:_Oscillator_Waveform)
-* [gswp5.js-code/13_Extend/Ex_13_02.js at master · lmccart/gswp5.js-code](https://github.com/lmccart/gswp5.js-code/blob/master/13_Extend/Ex_13_02.js) 
+* [gswp5.js-code/13_Extend/Ex_13_02.js at master · lmccart/gswp5.js-code](https://github.com/lmccart/gswp5.js-code/blob/master/13_Extend/Ex_13_02.js)
+
+## Patterns
+* [p5.js Web Editor | Pattern circles-squares](https://editor.p5js.org/StevesMakerspace/sketches/wufGqZ2gZ)
+* [p5.js Web Editor | Pattern pedals](https://editor.p5js.org/StevesMakerspace/sketches/_hayYBAFC)
+* [p5.js Web Editor | 10 print colored squares 2](https://editor.p5js.org/StevesMakerspace/sketches/7CKMIdr13) 
+* [p5.js Web Editor | 10 print - original](https://editor.p5js.org/StevesMakerspace/sketches/OncD1oQY3)
+* [p5.js Web Editor | Perlin noise 10 print](https://editor.p5js.org/StevesMakerspace/sketches/EqPCvWdxa)
+* [p5.js Web Editor | Perlin noise triangles simple](https://editor.p5js.org/StevesMakerspace/sketches/1LtXBGXlg)
+* [p5.js Web Editor | Perlin shapes triangles 4](https://editor.p5js.org/StevesMakerspace/sketches/2CYhFiZot)
+* [p5.js Web Editor | 10 print colored fabric](https://editor.p5js.org/StevesMakerspace/sketches/5-h73eCDT) 
+
 
