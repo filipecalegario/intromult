@@ -1,6 +1,7 @@
 ## Type
 * [p5.js Web Editor | Typography: Letters](https://editor.p5js.org/p5/sketches/Typography:_Letters)
-* [p5.js Web Editor | Typography: Text Rotation](https://editor.p5js.org/p5/sketches/Typography:_Text_Rotation) 
+* [p5.js Web Editor | Typography: Text Rotation](https://editor.p5js.org/p5/sketches/Typography:_Text_Rotation)
+* [p5.js Web Editor | Type:Kinetic Type by Tim Rodenbroeker V1](https://editor.p5js.org/DAI2020/sketches/uvJX1SM_J) 
 
 ## Sound
 ### Examples
