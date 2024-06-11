@@ -10,7 +10,8 @@
 * [p5.js Web Editor | Dom: Video Pixels](https://editor.p5js.org/p5/sketches/Dom:_Video_Pixels)
 * [p5.js Web Editor | Dom: Video Canvas](https://editor.p5js.org/p5/sketches/Dom:_Video_Canvas)
 * [p5.js Web Editor | Dom: Video Playback](https://editor.p5js.org/p5/sketches/Dom:_Video)
-* [examples | p5.js | Video Capture](https://p5js.org/examples/dom-video-capture.html) 
+* [examples | p5.js | Video Capture](https://p5js.org/examples/dom-video-capture.html)
+* [Working with video (Creative Coding)](https://creative-coding.decontextualize.com/video/) 
 
 ## Sound
 ### Examples
