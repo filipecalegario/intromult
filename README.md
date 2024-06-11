@@ -1,3 +1,6 @@
+## Image
+* [examples | p5.js| Drop an Image](https://p5js.org/examples/dom-drop.html) 
+
 ## Type
 * [p5.js Web Editor | Typography: Letters](https://editor.p5js.org/p5/sketches/Typography:_Letters)
 * [p5.js Web Editor | Typography: Text Rotation](https://editor.p5js.org/p5/sketches/Typography:_Text_Rotation)
