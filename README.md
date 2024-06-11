@@ -3,10 +3,20 @@
 * [p5.js Web Editor | Typography: Text Rotation](https://editor.p5js.org/p5/sketches/Typography:_Text_Rotation) 
 
 ## Sound
+### Examples
+* [Patatap](https://www.patatap.com/) 
+* [GIF Rap Bot](https://toddwords.com/gifRapBot/) 
+* [Visualizing Music with p5.js](https://therewasaguy.github.io/p5-music-viz/)
+* [WordSynth](https://toddwords.com/wordsynths/) 
+
+### Code
+* [toddwords/p5-Sound-Workshop: Some examples using the p5js sound library](https://github.com/toddwords/p5-Sound-Workshop) 
 * [Synthesizing and analyzing sound (Creative Coding)](https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/)
 * [p5.js Web Editor | Sound: Load and Play Sound](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound) 
 * [p5.js Web Editor | Sound: Amplitude Analysis](https://editor.p5js.org/p5/sketches/Sound:_Amplitude_Analysis) 
+* [p5.js Web Editor | Sound: Manipulate Sound](https://editor.p5js.org/p5/sketches/Sound:_Manipulate_Sound) 
+* [p5.js Web Editor | Sound: Live Input](https://editor.p5js.org/p5/sketches/Sound:_Live_Input)
 * [p5.js Web Editor | Sound: FFT Spectrum](https://editor.p5js.org/p5/sketches/Sound:_FFT_Spectrum)
 * [p5.js Web Editor | Sound: Oscillator Waveform](https://editor.p5js.org/p5/sketches/Sound:_Oscillator_Waveform)
-* [p5.js Web Editor | Sound: Live Input](https://editor.p5js.org/p5/sketches/Sound:_Live_Input)
-* [p5.js Web Editor | Sound: Manipulate Sound](https://editor.p5js.org/p5/sketches/Sound:_Manipulate_Sound) 
+* [gswp5.js-code/13_Extend/Ex_13_02.js at master · lmccart/gswp5.js-code](https://github.com/lmccart/gswp5.js-code/blob/master/13_Extend/Ex_13_02.js) 
+
