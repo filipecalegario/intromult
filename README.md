@@ -1,1 +1,12 @@
-* [Synthesizing and analyzing sound (Creative Coding)](https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/) 
+## Type
+* [p5.js Web Editor | Typography: Letters](https://editor.p5js.org/p5/sketches/Typography:_Letters)
+* [p5.js Web Editor | Typography: Text Rotation](https://editor.p5js.org/p5/sketches/Typography:_Text_Rotation) 
+
+## Sound
+* [Synthesizing and analyzing sound (Creative Coding)](https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/)
+* [p5.js Web Editor | Sound: Load and Play Sound](https://editor.p5js.org/p5/sketches/Sound:_Load_and_Play_Sound) 
+* [p5.js Web Editor | Sound: Amplitude Analysis](https://editor.p5js.org/p5/sketches/Sound:_Amplitude_Analysis) 
+* [p5.js Web Editor | Sound: FFT Spectrum](https://editor.p5js.org/p5/sketches/Sound:_FFT_Spectrum)
+* [p5.js Web Editor | Sound: Oscillator Waveform](https://editor.p5js.org/p5/sketches/Sound:_Oscillator_Waveform)
+* [p5.js Web Editor | Sound: Live Input](https://editor.p5js.org/p5/sketches/Sound:_Live_Input)
+* [p5.js Web Editor | Sound: Manipulate Sound](https://editor.p5js.org/p5/sketches/Sound:_Manipulate_Sound) 
