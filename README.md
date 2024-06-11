@@ -7,7 +7,8 @@
 * [Patatap](https://www.patatap.com/) 
 * [GIF Rap Bot](https://toddwords.com/gifRapBot/) 
 * [Visualizing Music with p5.js](https://therewasaguy.github.io/p5-music-viz/)
-* [WordSynth](https://toddwords.com/wordsynths/) 
+* [WordSynth](https://toddwords.com/wordsynths/)
+* [The IDMIL Digital Audio Workbench – IDMIL](https://www.idmil.org/project/the-digital-audio-workbench/) 
 
 ### Code
 * [toddwords/p5-Sound-Workshop: Some examples using the p5js sound library](https://github.com/toddwords/p5-Sound-Workshop) 
