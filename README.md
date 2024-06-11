@@ -47,4 +47,5 @@
 ## INBOX
 * [CODE STUDIO](https://codestudio-p5.netlify.app/) 
 * [p5 examples | A collection of code examples for p5.js (in progress).](https://dkessner.github.io/p5_examples/face_tracking/)
-* [learn.hobye.dk - Examples](https://learn.hobye.dk/development/p5js/examples)  
+* [learn.hobye.dk - Examples](https://learn.hobye.dk/development/p5js/examples)
+* [Creative coding examples | Art made with p5.js](https://www.codecademy.com/resources/blog/creative-coding-p5js-examples/) 
